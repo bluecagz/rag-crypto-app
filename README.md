@@ -1,6 +1,9 @@
 
 # Retrieval-Augmented Generation (RAG) Pipeline Overview 
 
+***Project Progress***:  `[#---------]` 5%
+
+
 Below is a Rust + Ollama architecture outline for generating embeddings using Ollama and storing them in Postgres via pgvector. This will enable to build a Retrieval-Augmented Generation (RAG) pipeline for crypto analytics data, all while leveraging Ollama’s local LLM capabilities for embeddings.
 
 1. **Set Up Ollama** locally:  
